@@ -1,0 +1,36 @@
+* {
+    font-family: Arial;
+}
+
+h1 {
+   text-align: center; 
+}
+
+p {
+    text-align: center; 
+ }
+
+ table {
+    border: 2px solid blueviolet;
+    width: 650px;
+    margin: 0 auto;
+ }
+
+ thead {
+    background-color: plum;
+
+  }
+
+  th {
+    border-right: 1px solid blueviolet;
+
+  }
+  
+  td {
+    border-top: 1px solid blueviolet;
+    border-right: 1px solid blueviolet;
+  }
+
+  .line {
+    border-right: 0;
+  }
